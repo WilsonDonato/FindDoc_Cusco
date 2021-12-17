@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">FindDoc Cusco</string>
+    <string name="title_activity_navegation">navegation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_especialistas_cercanos">especialistas_cercanos</string>
+    <string name="title_activity_ubicacion_doc_wison">ubicacion_docWison</string>
+    <string name="title_activity_segundomedico">segundomedico</string>
+    <string name="title_activity_medicotercero">medicotercero</string>
+    <string name="title_activity_medicocuarto">medicocuarto</string>
+    <string name="title_activity_medicoquinto">medicoquinto</string>
+    <string name="title_activity_enfer1">enfer1</string>
+    <string name="title_activity_enfer2">enfer2</string>
+    <string name="title_activity_enfer3">enfer3</string>
+    <string name="title_activity_enfer4">enfer4</string>
+    <string name="title_activity_enfer5">enfer5</string>
+    <string name="title_activity_cardi1">cardi1</string>
+    <string name="title_activity_cardi2">cardi2</string>
+    <string name="title_activity_cardi3">cardi3</string>
+    <string name="title_activity_cardi4">cardi4</string>
+    <string name="title_activity_cardi5">cardi5</string>
+    <string name="title_activity_derma1">derma1</string>
+    <string name="title_activity_derma2">derma2</string>
+    <string name="title_activity_derma3">derma3</string>
+    <string name="title_activity_derma4">derma4</string>
+    <string name="title_activity_derma5">derma5</string>
+    <string name="title_activity_endo1">endo1</string>
+    <string name="title_activity_endo2">endo2</string>
+    <string name="title_activity_endo3">endo3</string>
+    <string name="title_activity_endo4">endo4</string>
+    <string name="title_activity_endo5">endo5</string>
+</resources>

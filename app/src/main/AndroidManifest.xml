@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.finddoccusco">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconoredondo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iconoredondo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FindDocCusco">
+        <activity
+            android:name=".consejo"
+            android:exported="true" />
+        <activity
+            android:name=".Calculadora"
+            android:exported="true" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".endo5"
+            android:exported="false"
+            android:label="@string/title_activity_endo5" />
+        <activity
+            android:name=".endo4"
+            android:exported="false"
+            android:label="@string/title_activity_endo4" />
+        <activity
+            android:name=".endo3"
+            android:exported="false"
+            android:label="@string/title_activity_endo3" />
+        <activity
+            android:name=".endo2"
+            android:exported="false"
+            android:label="@string/title_activity_endo2" />
+        <activity
+            android:name=".endo1"
+            android:exported="false"
+            android:label="@string/title_activity_endo1" />
+        <activity
+            android:name=".derma5"
+            android:exported="false"
+            android:label="@string/title_activity_derma5" />
+        <activity
+            android:name=".derma4"
+            android:exported="false"
+            android:label="@string/title_activity_derma4" />
+        <activity
+            android:name=".derma3"
+            android:exported="false"
+            android:label="@string/title_activity_derma3" />
+        <activity
+            android:name=".derma2"
+            android:exported="false"
+            android:label="@string/title_activity_derma2" />
+        <activity
+            android:name=".derma1"
+            android:exported="false"
+            android:label="@string/title_activity_derma1" />
+        <activity
+            android:name=".cardi5"
+            android:exported="false"
+            android:label="@string/title_activity_cardi5" />
+        <activity
+            android:name=".cardi4"
+            android:exported="false"
+            android:label="@string/title_activity_cardi4" />
+        <activity
+            android:name=".cardi3"
+            android:exported="false"
+            android:label="@string/title_activity_cardi3" />
+        <activity
+            android:name=".cardi2"
+            android:exported="false"
+            android:label="@string/title_activity_cardi2" />
+        <activity
+            android:name=".cardi1"
+            android:exported="false"
+            android:label="@string/title_activity_cardi1" />
+        <activity
+            android:name=".enfer5"
+            android:exported="false"
+            android:label="@string/title_activity_enfer5" />
+        <activity
+            android:name=".enfer4"
+            android:exported="false"
+            android:label="@string/title_activity_enfer4" />
+        <activity
+            android:name=".enfer3"
+            android:exported="false"
+            android:label="@string/title_activity_enfer3" />
+        <activity
+            android:name=".enfer2"
+            android:exported="false"
+            android:label="@string/title_activity_enfer2" />
+        <activity
+            android:name=".enfer1"
+            android:exported="false"
+            android:label="@string/title_activity_enfer1" />
+        <activity
+            android:name=".medicoquinto"
+            android:exported="false"
+            android:label="@string/title_activity_medicoquinto" />
+        <activity
+            android:name=".medicocuarto"
+            android:exported="false"
+            android:label="@string/title_activity_medicocuarto" />
+        <activity
+            android:name=".medicotercero"
+            android:exported="false"
+            android:label="@string/title_activity_medicotercero" />
+        <activity
+            android:name=".segundomedico"
+            android:exported="false"
+            android:label="@string/title_activity_segundomedico" />
+        <activity
+            android:name=".ubicacion_docWison"
+            android:exported="true"
+            android:label="@string/title_activity_ubicacion_doc_wison" />
+        <activity
+            android:name=".lista_endroinologos"
+            android:exported="false" />
+        <activity
+            android:name=".lista_dermatologos"
+            android:exported="false" />
+        <activity
+            android:name=".lista_cardiologos"
+            android:exported="false" />
+        <activity
+            android:name=".endocrinonologo5"
+            android:exported="false" />
+        <activity
+            android:name=".endocrinonologo4"
+            android:exported="false" />
+        <activity
+            android:name=".endocrinonologo3"
+            android:exported="false" />
+        <activity
+            android:name=".endocrinonologo2"
+            android:exported="false" />
+        <activity
+            android:name=".endocrinonologo1"
+            android:exported="false" />
+        <activity
+            android:name=".dermatologo5"
+            android:exported="false" />
+        <activity
+            android:name=".dermatologo4"
+            android:exported="false" />
+        <activity
+            android:name=".dermatologo3"
+            android:exported="false" />
+        <activity
+            android:name=".dermatologo2"
+            android:exported="false" />
+        <activity
+            android:name=".dermatologo1"
+            android:exported="false" />
+        <activity
+            android:name=".cardiologo5"
+            android:exported="false" />
+        <activity
+            android:name=".cardiologo4"
+            android:exported="false" />
+        <activity
+            android:name=".cardiologo3"
+            android:exported="false" />
+        <activity
+            android:name=".cardiologo2"
+            android:exported="false" />
+        <activity
+            android:name=".cardiologo1"
+            android:exported="false" />
+        <activity
+            android:name=".enfermero5"
+            android:exported="false" />
+        <activity
+            android:name=".enfermero4"
+            android:exported="false" />
+        <activity
+            android:name=".enfermero3"
+            android:exported="false" />
+        <activity
+            android:name=".enfermero2"
+            android:exported="false" />
+        <activity
+            android:name=".enfermero1"
+            android:exported="false" />
+        <activity
+            android:name=".QuintoMedicogeneral"
+            android:exported="false" />
+        <activity
+            android:name=".CuartoMedicogeneral"
+            android:exported="false" />
+        <activity
+            android:name=".TercerMedicogeneral"
+            android:exported="false" />
+        <activity
+            android:name=".SegundoMedicogeneral"
+            android:exported="false" />
+        <activity
+            android:name=".lista_enfermeros"
+            android:exported="true" />
+        <activity
+            android:name=".emergencias"
+            android:exported="true" />
+        <activity
+            android:name=".yaracely"
+            android:exported="true" />
+        <activity
+            android:name=".lista_medicos_generales"
+            android:exported="true" />
+        <activity
+            android:name=".informacion"
+            android:exported="true" />
+        <activity
+            android:name=".especialistas_cercanos"
+            android:exported="true"
+            android:label="@string/title_activity_especialistas_cercanos" />
+        <activity
+            android:name=".login"
+            android:exported="true" />
+        <activity
+            android:name=".Registro"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".interfaz_principal"
+            android:exported="true" />
+        <activity
+            android:name=".splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

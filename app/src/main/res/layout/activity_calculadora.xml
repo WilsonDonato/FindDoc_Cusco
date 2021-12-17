@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Calculadora">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:id="@+id/textos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="30dp"
+            android:gravity="center"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:id="@+id/txtNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_weight="0.1"
+                android:fontFamily="@font/caviardreamsbold"
+                android:gravity="center"
+                android:text="Calculadora de IMC"
+                android:textColor="@color/rosao"
+                android:textSize="35dp" />
+
+            <EditText
+                android:id="@+id/txtNom"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="Ingrese su nombre "
+                android:gravity="start|center"
+                android:textStyle="normal"
+                android:textColor="#3E4F59"
+                android:textSize="15dp"/>
+            <EditText
+                android:id="@+id/txtPeso"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="Ingrese su peso en Kg"
+                android:gravity="start|center"
+                android:textStyle="normal"
+                android:textColor="#3E4F59"
+                android:textSize="15dp"/>
+            <EditText
+                android:id="@+id/txtAltura"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="Ingrese su altura en metros"
+                android:gravity="start|center"
+                android:textStyle="normal"
+                android:textColor="#3E4F59"
+                android:textSize="15dp"/>
+
+
+            <RadioGroup
+                android:id="@+id/fila1"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="3dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+
+
+                    <RadioButton
+                        android:id="@+id/rbVaron"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="varon"
+                        android:textSize="18dp"
+                        android:textColor="@color/rosao"
+                        android:textStyle="bold" />
+
+                    <RadioButton
+                        android:id="@+id/rbMujer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:text="Mujer"
+                        android:textSize="18dp"
+                        android:textColor="@color/rosao"
+                        android:textStyle="bold" />
+
+
+            </RadioGroup>
+
+            <LinearLayout
+                android:id="@+id/fila2"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="3dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btncalcular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="4dp"
+                    android:background="@drawable/boton_redondo"
+                    android:fontFamily="@font/caviardreamsbold"
+                    android:textColor="@color/B"
+                    android:textSize="16dp"
+                    app:backgroundTint="#99C2DA"
+                    android:text="calcular"/>
+
+
+                <Button
+                    android:id="@+id/btnLimpiar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="4dp"
+                    android:background="@drawable/boton_redondo"
+                    android:fontFamily="@font/caviardreamsbold"
+                    android:textColor="@color/B"
+                    android:textSize="16dp"
+                    app:backgroundTint="#99C2DA"
+                    android:text="limpiar"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txtWenas"
+                android:layout_width="match_parent"
+                android:layout_height="39dp"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:text=""
+                android:textColor="#3E4F59"
+                android:textSize="16dp"
+                android:textStyle="normal" />
+
+            <LinearLayout
+                android:id="@+id/fila3"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="3dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnConsejo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="4dp"
+                    android:layout_marginEnd="4dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/boton_redondo"
+                    android:fontFamily="@font/caviardreamsbold"
+                    android:onClick="consejo"
+                    android:text="Recomendaciones"
+                    android:textColor="@color/D"
+                    android:textSize="16dp"
+                    app:backgroundTint="#3E4F59" />
+
+
+            </LinearLayout>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

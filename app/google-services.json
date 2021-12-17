@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388535617504",
+    "project_id": "finddoc-cusco",
+    "storage_bucket": "finddoc-cusco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388535617504:android:b558e874cf8563c0044d85",
+        "android_client_info": {
+          "package_name": "com.example.finddoccusco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388535617504-tdt1s6jpoqf0bmb7lcgg9h8teddeboqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0euDoLcNhTvJyVJ6eiR8rCrV3Kh8tgO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388535617504-tdt1s6jpoqf0bmb7lcgg9h8teddeboqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

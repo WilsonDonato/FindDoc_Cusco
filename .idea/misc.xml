@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_cardiologo2.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_cardiologo3.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_cardiologo4.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_cardiologo5.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_cuarto_medicogeneral.xml" value="0.18840579710144928" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_dermatologo1.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_dermatologo2.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_dermatologo3.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_dermatologo4.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_dermatologo5.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_endocrinonologo1.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_endocrinonologo2.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_endocrinonologo3.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_endocrinonologo4.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_endocrinonologo5.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_enfermero1.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_enfermero2.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_enfermero3.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_enfermero4.xml" value="0.2" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_enfermero5.xml" value="0.13451086956521738" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_quinto_medicogeneral.xml" value="0.18840579710144928" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_segundo_medicogeneral.xml" value="0.18840579710144928" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_segundomedico.xml" value="0.25" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_splash.xml" value="0.18840579710144928" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_tercer_medicogeneral.xml" value="0.18840579710144928" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_ubicacion_doc_wison.xml" value="0.25" />
+        <entry key="..\:/DS3/FindDocCusco2/FindDocCusco2/app/src/main/res/layout/activity_yaracely.xml" value="0.25" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/drawable/boton_redondo.xml" value="0.20555555555555555" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_cardiologo1.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_cardiologo2.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_cardiologo3.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_cardiologo4.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_cardiologo5.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_cuarto_medicogeneral.xml" value="0.1796116504854369" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_dermatologo1.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_dermatologo2.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_dermatologo3.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_dermatologo4.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_dermatologo5.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_emergencias.xml" value="0.1099290780141844" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_endocrinonologo1.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_endocrinonologo2.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_endocrinonologo4.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_endocrinonologo5.xml" value="0.20677083333333332" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_enfermero1.xml" value="0.20833333333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_enfermero2.xml" value="0.20833333333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_enfermero3.xml" value="0.20833333333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_enfermero4.xml" value="0.20833333333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_enfermero5.xml" value="0.20833333333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_especialistas_cercanos.xml" value="0.1099290780141844" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_informacion.xml" value="0.264" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_interfaz_principal.xml" value="0.14402173913043478" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_lista_cardiologos.xml" value="0.20833333333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_lista_dermatologos.xml" value="0.20833333333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_lista_endroinologos.xml" value="0.19427083333333334" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_lista_enfermeros.xml" value="0.1099290780141844" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_lista_medicos_generales.xml" value="0.1099290780141844" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_login.xml" value="0.16621376811594202" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_main.xml" value="0.14402173913043478" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_quinto_medicogeneral.xml" value="0.264" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_registro.xml" value="0.16799999999999998" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_segundo_medicogeneral.xml" value="0.1897644927536232" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_splash.xml" value="0.14402173913043478" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_tercer_medicogeneral.xml" value="0.1" />
+        <entry key="..\:/DS3/TERCERA UNIDAD/FindDocCusco/FindDocCusco/app/src/main/res/layout/activity_yaracely.xml" value="0.14402173913043478" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/drawable/boton_redondo.xml" value="0.2703125" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_emergencias.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_especialistas_cercanos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_informacion.xml" value="0.264" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_interfaz_principal.xml" value="0.6057401812688822" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_lista_enfermeros.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_lista_medicos_generales.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_login2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_main_activity2ga.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_navegation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_registro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/activity_yaracely.xml" value="0.264" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/app_bar_navegation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/content_navegation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco2/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCusco2/app/src/main/res/layout/activity_yaracely.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_calculadora.xml" value="0.24537037037037038" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_consejo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_enfermero1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_informacion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_interfaz_principal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_lista_medicos_generales.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_medicocuarto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_calculadora.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_cardi1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_cardi2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_cardi3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_cuarto_medicogeneral.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_derma1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_dermatologo1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_emergencias.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_especialistas_cercanos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_informacion.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_lista_medicos_generales.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_medicocuarto.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_registro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_segundo_medicogeneral.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_segundomedico.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_tercer_medicogeneral.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_ubicacion_doc_wison.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/FindDocCuscook2/app/src/main/res/layout/activity_yaracely.xml" value="0.25416666666666665" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_calculadora.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_consejo.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_especialistas_cercanos.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_interfaz_principal.xml" value="0.25416666666666665" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_lista_enfermeros.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_lista_medicos_generales.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_login.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_medicotercero.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_quinto_medicogeneral.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_registro.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_segundo_medicogeneral.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_splash.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_tercer_medicogeneral.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_ubicacion_doc_wison.xml" value="0.11144883485309018" />
+        <entry key="..\:/ds3/FindDocCuscook/FindDocCuscook/app/src/main/res/layout/activity_yaracely.xml" value="0.11144883485309018" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
